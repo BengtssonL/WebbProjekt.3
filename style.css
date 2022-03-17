@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Shippori+Antique&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background: white;
+    padding: 20px;
+}
+header > h1 {
+    color: #25272e;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: #23272E;
+}
+
+.score{
+border-radius: 4px;
+margin: 20px auto;
+border: 5px solid white;
+width: 20%;
+color: white;
+font-size: 40px;
+padding: 15px 20px;
+font-family: 'lato', sans-serif;
+position: relative;
+}
+
+.badge{
+    background: #E2584D;
+    color: white;
+    font-size: 15px;
+    padding: 2px;
+    font-family: 'lato' sans-serif;
+}
+
+#User-label{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
