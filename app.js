@@ -68,13 +68,5 @@ function spel(userChoice) {
 }
 
 
-if (vinst) {
-    nyttfönster();
-}
-if (förlust) {
-    nyttfönster;
-}
-if (lika){
-    nyttfönster;
-}
+
 
