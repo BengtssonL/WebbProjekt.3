@@ -66,7 +66,3 @@ function spel(userChoice) {
             break;
     }
 }
-
-
-
-
